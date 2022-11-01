@@ -8,10 +8,12 @@ Assume that the square directly North from (x, y) is (x, y+1).
 Test Input
 
 1 2 N|LMLMLMLMM
+
 3 3 E|MMRMMRMRRM
 
 
 Expected Output
 1,3,N
+
 5,1,E
 
