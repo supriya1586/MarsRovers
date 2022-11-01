@@ -1,0 +1,12 @@
+﻿body {
+
+
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#ToBeApplied td {
+    border: 2px solid black;
+}
